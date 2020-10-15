@@ -1,6 +1,6 @@
 monTexte="Bonjour"  #variable de type texte (string)
 chiffre1 = 9        #variable de type entier (int)
-chiffre2 = 5     #variable de type virgule flotante (float)
+chiffre2 = 5.4     #variable de type virgule flotante (float)
 flag = True         #variable de type boolean (bool)
 
 resultat1 = chiffre1 + chiffre2
