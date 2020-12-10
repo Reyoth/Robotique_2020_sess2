@@ -26,7 +26,7 @@ for lettre in "maison":
 print("--------------------")
 
 phrase ="bientot la pause"
-for lettre in phrase:
-    if lettre in "aeiouy":
-        print(lettre)
+for lettre in phrase: # pour chaque lettre dans la phrase :
+    if lettre in "aeiouy": # si la lettre est dans "aeiouy"
+        print(lettre)   # on affiche la lettre
 
